@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TpZf3qF76ZuKwgWtluZhNy1XW3UitfNua9+xGmPuLHc=",
+  "Source": "ecology-dotnet",
+  "BasePath": "_content/ecology-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
